@@ -2,6 +2,7 @@ src-git packages https://github.com/friendlyarm/friendlywrt_project_packages^5b2
 src-git luci https://github.com/friendlyarm/friendlywrt_project_luci^28fc0fa6d90a8eb3db0c93e749ed5aefdbfc4f8a
 src-git routing https://git.openwrt.org/feed/routing.git^f1b0476edc5486793e098fe83089054bb2941663
 src-git telephony https://git.openwrt.org/feed/telephony.git^6f95d6ab3f359ee2ce81c20522700937424d1591
+src-git songchenwen https://github.com/songchenwen/openwrt-package
 #src-git video https://github.com/openwrt/video.git
 #src-git targets https://github.com/openwrt/targets.git
 #src-git management https://github.com/openwrt-management/packages.git
